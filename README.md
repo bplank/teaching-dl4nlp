@@ -9,11 +9,15 @@ Content:
 <img src="overview-concepts.png" width=500>
 
 
-## Malta 2019
+## Earlier notebooks
 
-Slides from a week-long course, which cover a subpart of the material covered above, complemented with exercises and code (Keras).
-
+### University of Malta 2019
+* Notebook slides from a week-long course, which cover a subpart of the material covered above, complemented with exercises and code (Keras).
 * Source: https://github.com/bplank/2019-ma-notebook
+
+### University of Groningen 2017
+* Notebook slides from a quadrisemester long course "Language Technology Project" with code (Keras)
+* Source: https://github.com/bplank/ltp-notebooks-2017
 
 
 ## Key references:
