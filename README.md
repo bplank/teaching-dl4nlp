@@ -16,8 +16,11 @@ Content:
 * Source: https://github.com/bplank/2019-ma-notebook
 
 ### University of Groningen 2017
-* Notebook slides from a quadrisemester long course "Language Technology Project" with code (Keras)
+* Notebook slides from a quadrisemester long course "[Language Technology Project](https://www.rug.nl/ocasys/rug/vak/show?code=LIX025M05)" with code (Keras)
 * Source: https://github.com/bplank/ltp-notebooks-2017
+
+* *Course description:* 	In this project-based course, students are going to work on a natural language processing challenge. A challenge is a practical task in NLP related to a particular research topic. The task usually comes with data-sets for training, as well as a precise evaluation metric. The intention is that students familiarize themselves with a selected research topic, implement a solution and present the outcome critically in a term paper. The course is a mix of lectures, exercises and project-based work. The focus of this class is on deep learning (neural networks) for NLP.
+* *Learning outcomes:* After completing this course, students are able to tackle a challenge in Natural Language Processing, implement a solution, and critically assess their solution in the light of recent research papers in Natural Language Processing.
 
 
 ## Key references:
